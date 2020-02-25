@@ -6,7 +6,7 @@
 > 钢哥注：MBA备考漫漫征途，只为追求更好的自己。以下是我自己纯手工整理的MBA备考思维导图，钢哥用它们顺利考入了复旦，希望对其他同学也能有所帮助。
 
 ## 申请材料准备工作
-![](https://oracle-apex-bucket.s3-ap-northeast-1.amazonaws.com/mba/1.1 MBA备考_申请材料准备.png)
+![](https://oracle-apex-bucket.s3-ap-northeast-1.amazonaws.com/mba/1.1+MBA%E5%A4%87%E8%80%83_%E7%94%B3%E8%AF%B7%E6%9D%90%E6%96%99%E5%87%86%E5%A4%87.png)
 
 
 ## 提前批面试
